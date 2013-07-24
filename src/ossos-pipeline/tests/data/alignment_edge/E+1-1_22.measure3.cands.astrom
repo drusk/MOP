@@ -1,0 +1,32 @@
+# 1616683p22                                                                    
+# 1616694p22                                                                    
+# 1616705p22                                                                    
+## MOPversion                                                                   
+#  1.20                                                                         
+## MJD-OBS-CENTER  EXPTIME THRES FWHM  MAXCOUNT CRVAL1     CRVAL2     EXPNUM    
+# 2013 04 09.37434  287.06  2.70  3.32  30000.0  214.89354  -13.88828  1616683  
+## SCALE CHIP CRPIX1    CRPIX2    NAX1  NAX2   DETECTOR           PHADU RDNOIS  
+#  0.185  23   1055.06   4511.73  2112  4644 MegaCam              1.65  3.00    
+## MOPversion                                                                   
+#  1.20                                                                         
+## MJD-OBS-CENTER  EXPTIME THRES FWHM  MAXCOUNT CRVAL1     CRVAL2     EXPNUM    
+# 2013 04 09.41746  287.07  2.70  3.53  30000.0  214.89354  -13.88825  1616694  
+## SCALE CHIP CRPIX1    CRPIX2    NAX1  NAX2   DETECTOR           PHADU RDNOIS  
+#  0.185  23   1053.11   4511.93  2112  4644 MegaCam              1.65  3.00    
+## MOPversion                                                                   
+#  1.20                                                                         
+## MJD-OBS-CENTER  EXPTIME THRES FWHM  MAXCOUNT CRVAL1     CRVAL2     EXPNUM    
+# 2013 04 09.46062  287.07  2.70  3.53  30000.0  214.89354  -13.88828  1616705  
+## SCALE CHIP CRPIX1    CRPIX2    NAX1  NAX2   DETECTOR           PHADU RDNOIS  
+#  0.185  23   1050.69   4510.31  2112  4644 MegaCam              1.65  3.00    
+##     RMIN    RMAX   ANGLE   AWIDTH                                            
+#      0.4    15.0    20.0    30.0                                              
+##   X        Y        X_0     Y_0          R.A.          DEC                   
+
+  1716.49  2991.50  1716.49  2991.50  214.8585502  -13.9674267
+  1756.40  3005.52  1758.69  3006.01  214.8562869  -13.9666835
+  1798.43  3020.11  1803.34  3021.74  214.8538899  -13.9658782
+
+  1972.92  2059.14  1972.92  2059.14  214.8450880  -14.0159212
+  2003.51  2062.05  2006.02  2062.61  214.8433154  -14.0157493
+  2032.68  2059.35  2037.98  2061.09  214.8416039  -14.0158362
