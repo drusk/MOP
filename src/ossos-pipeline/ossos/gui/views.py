@@ -778,7 +778,7 @@ class AcceptSourceDialog(SourceValidationDialog):
 
         super(AcceptSourceDialog, self).__init__(parent, title=self.TITLE)
 
-        self.note1_combobox.SetFocus()
+        self.Bind(wx.EVT_SHOW, self._on_show)
 
     def _init_ui(self):
         self.minor_planet_num_label = wx.StaticText(
@@ -862,6 +862,9 @@ class AcceptSourceDialog(SourceValidationDialog):
         sizer.AddGrowableCol(1, proportion=1)
 
         return [sizer]
+
+    def _on_show(self, event):
+        self.note1_combobox.SetFocus()
 
     def _on_submit(self, event):
         # Grab data out of the form
